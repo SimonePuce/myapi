@@ -10,8 +10,6 @@ public class PrenotazioneDTO {
     public List<AttrezzatureDTO> attrezzature;
     public ClienteDTO cliente;
 
-
-
     public int getPrenotazioneID() {
         return prenotazioneID;
     }
