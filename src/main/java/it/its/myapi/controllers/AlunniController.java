@@ -38,7 +38,7 @@ public class AlunniController {
         alunni.add(new AlunniDTO("Tramis","Stefano","https://github.com/alemarra89/its2224/blob/main/alunni/tramis.jpeg?raw=true","https://www.links-srl.it/"));
         alunni.add(new AlunniDTO("Verdesca","Narcis","https://github.com/alemarra89/its2224/blob/main/alunni/verdesca.jpeg?raw=true","https://www.links-srl.it/"));
         alunni.add(new AlunniDTO("Vergine","Fabio","https://github.com/alemarra89/its2224/blob/main/alunni/vergine.jpeg?raw=true","https://www.links-srl.it/"));
-        alunni.add(new AlunniDTO("Vittocarlo","Carlovitto","https://github.com/alemarra89/its2224/blob/main/alunni/vitto.png?raw=true","https://www.links-srl.it/"));
+        alunni.add(new AlunniDTO("Vitto","Carlo","https://github.com/alemarra89/its2224/blob/main/alunni/vitto.png?raw=true","https://www.links-srl.it/"));
         alunni.add(new AlunniDTO("Zagà","Rocco","https://github.com/alemarra89/its2224/blob/main/alunni/zaga.jpeg?raw=true","https://www.links-srl.it/"));
         return alunni;
     }
